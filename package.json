@@ -1,0 +1,27 @@
+{
+  "name": "car-rental-application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.5",
+    "@reduxjs/toolkit": "^1.9.5",
+    "antd": "^5.8.4",
+    "axios": "^1.5.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "next": "13.4.19",
+    "nodemailer": "^6.9.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1"
+  }
+}
